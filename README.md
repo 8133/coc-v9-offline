@@ -13,17 +13,19 @@ a clash of clans **9.256.8** offline mode client for android. based on the origi
 
 ## screenshots
 
-| village | saved village after reopening |
+| village | saved village |
 | --- | --- |
 | ![village](screenshots/1.png) | ![saved village](screenshots/2.png) |
-| profile | create a clan |
-| ![profile](screenshots/3.png) | ![clan creation](screenshots/4.png) |
-| my clan | leave clan |
-| ![clan](screenshots/5.png) | ![leave clan](screenshots/6.png) |
+| upgrading a building | creating a clan |
+| ![building upgrade](screenshots/3.png) | ![create clan](screenshots/4.png) |
+| clan in the village | my clan |
+| ![clan village](screenshots/5.png) | ![my clan](screenshots/6.png) |
+| after leaving the clan | profile |
+| ![village after leaving](screenshots/7.png) | ![profile](screenshots/8.png) |
 | attack map | goblin battle |
-| ![attack map](screenshots/7.png) | ![goblin battle](screenshots/8.png) |
+| ![attack map](screenshots/9.png) | ![goblin battle](screenshots/10.png) |
 | victory | imported base |
-| ![victory](screenshots/9.png) | ![imported base](screenshots/10.png) |
+| ![victory](screenshots/11.png) | ![imported base](screenshots/12.png) |
 
 ## download
 
