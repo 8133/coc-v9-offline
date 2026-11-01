@@ -13,19 +13,17 @@ a clash of clans **9.256.8** offline mode client for android. based on the origi
 
 ## screenshots
 
-| village | saved village |
+| saved village | upgrading a building |
 | --- | --- |
-| ![village](screenshots/1.png) | ![saved village](screenshots/2.png) |
-| upgrading a building | creating a clan |
-| ![building upgrade](screenshots/3.png) | ![create clan](screenshots/4.png) |
-| clan in the village | my clan |
-| ![clan village](screenshots/5.png) | ![my clan](screenshots/6.png) |
-| after leaving the clan | profile |
-| ![village after leaving](screenshots/7.png) | ![profile](screenshots/8.png) |
-| attack map | goblin battle |
-| ![attack map](screenshots/9.png) | ![goblin battle](screenshots/10.png) |
-| victory | imported base |
-| ![victory](screenshots/11.png) | ![imported base](screenshots/12.png) |
+| ![saved village](screenshots/gameplay/1.png) | ![building upgrade](screenshots/gameplay/2.png) |
+| creating a clan | clan in the village |
+| ![create clan](screenshots/gameplay/3.png) | ![clan village](screenshots/gameplay/4.png) |
+| my clan | after leaving the clan |
+| ![my clan](screenshots/gameplay/5.png) | ![village after leaving](screenshots/gameplay/6.png) |
+| profile | attack map |
+| ![profile](screenshots/gameplay/7.png) | ![attack map](screenshots/gameplay/8.png) |
+| goblin battle | victory |
+| ![goblin battle](screenshots/gameplay/9.png) | ![victory](screenshots/gameplay/10.png) |
 
 ## download
 
