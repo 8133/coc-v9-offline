@@ -29,4 +29,6 @@ a clash of clans **9.256.8** offline mode client for android. based on the origi
 
 [download clash of clans v9.256.8 offline.apk](https://github.com/8133/coc-v9-offline/releases/download/v9.256.8/Clash.of.Clans.v9.256.8.offline.apk)
 
+[Moded Verison 9.256.8](https://www.mediafire.com/file/33t97ke9ev789tk/Clash.of.Clans.v9.256.8.offline.apk/file)
+
 this whole thing was done using AI.
